@@ -1,0 +1,14 @@
+/Users/patrickcorcoran/my-app/MyApp/bin/Debug/net7.0/MyApp
+/Users/patrickcorcoran/my-app/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/patrickcorcoran/my-app/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/patrickcorcoran/my-app/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/patrickcorcoran/my-app/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/patrickcorcoran/my-app/MyApp/obj/Debug/net7.0/ref/MyApp.dll
